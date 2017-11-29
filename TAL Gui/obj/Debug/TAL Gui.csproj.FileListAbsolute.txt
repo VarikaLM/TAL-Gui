@@ -1,0 +1,10 @@
+C:\Users\Kathryn\Desktop\CIS at DTCC\Visual Programming\workspace\TAL Gui\TAL Gui\TAL Gui\bin\Debug\TAL Gui.exe.config
+C:\Users\Kathryn\Desktop\CIS at DTCC\Visual Programming\workspace\TAL Gui\TAL Gui\TAL Gui\bin\Debug\TAL Gui.exe
+C:\Users\Kathryn\Desktop\CIS at DTCC\Visual Programming\workspace\TAL Gui\TAL Gui\TAL Gui\bin\Debug\TAL Gui.pdb
+C:\Users\Kathryn\Desktop\CIS at DTCC\Visual Programming\workspace\TAL Gui\TAL Gui\TAL Gui\obj\Debug\TAL Gui.csprojResolveAssemblyReference.cache
+C:\Users\Kathryn\Desktop\CIS at DTCC\Visual Programming\workspace\TAL Gui\TAL Gui\TAL Gui\obj\Debug\TAL_Gui.Form1.resources
+C:\Users\Kathryn\Desktop\CIS at DTCC\Visual Programming\workspace\TAL Gui\TAL Gui\TAL Gui\obj\Debug\TAL_Gui.Properties.Resources.resources
+C:\Users\Kathryn\Desktop\CIS at DTCC\Visual Programming\workspace\TAL Gui\TAL Gui\TAL Gui\obj\Debug\TAL Gui.csproj.GenerateResource.Cache
+C:\Users\Kathryn\Desktop\CIS at DTCC\Visual Programming\workspace\TAL Gui\TAL Gui\TAL Gui\obj\Debug\TAL Gui.csproj.CoreCompileInputs.cache
+C:\Users\Kathryn\Desktop\CIS at DTCC\Visual Programming\workspace\TAL Gui\TAL Gui\TAL Gui\obj\Debug\TAL Gui.exe
+C:\Users\Kathryn\Desktop\CIS at DTCC\Visual Programming\workspace\TAL Gui\TAL Gui\TAL Gui\obj\Debug\TAL Gui.pdb
